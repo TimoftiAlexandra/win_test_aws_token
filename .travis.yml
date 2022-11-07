@@ -1,4 +1,5 @@
 os: windows
+language: generic
 env:
   STR1: AKIAI6E66XXXX4SKIJWA
   STR2: AKIAI6E66XXXX4SKIJWA
